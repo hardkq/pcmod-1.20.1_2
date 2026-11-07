@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "cgc",
+    "iri"
+  ],
+  "key": {
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "g": {
+      "item": "minecraft:glass_pane"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pcmod:computer"
+  }
+}

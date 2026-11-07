@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "pcp",
+    "iri"
+  ],
+  "key": {
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "p": {
+      "item": "minecraft:glass_pane"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pcmod:monitor3"
+  }
+}

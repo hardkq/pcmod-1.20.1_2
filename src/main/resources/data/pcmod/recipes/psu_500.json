@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "iPi",
+    "ggg"
+  ],
+  "key": {
+    "P": {
+      "item": "pcmod:psu_300"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "pcmod:psu_500"
+  }
+}

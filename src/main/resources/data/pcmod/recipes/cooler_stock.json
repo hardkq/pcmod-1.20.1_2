@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "brb",
+    "iii"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:iron_bars"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pcmod:cooler_stock"
+  }
+}

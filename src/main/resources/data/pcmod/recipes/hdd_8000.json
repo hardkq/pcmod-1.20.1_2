@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ded",
+    "cHc",
+    "ded"
+  ],
+  "key": {
+    "H": {
+      "item": "pcmod:hdd_4000"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "e": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "pcmod:hdd_8000"
+  }
+}

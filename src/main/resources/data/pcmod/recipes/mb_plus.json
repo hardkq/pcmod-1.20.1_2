@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rcr",
+    "cMc",
+    "rcr"
+  ],
+  "key": {
+    "M": {
+      "item": "pcmod:mb_basic"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pcmod:mb_plus"
+  }
+}

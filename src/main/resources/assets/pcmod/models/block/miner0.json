@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "pcmod:block/miner0_side",
+    "down": "pcmod:block/miner0_side",
+    "up": "pcmod:block/miner0_side",
+    "south": "pcmod:block/miner0_front",
+    "north": "pcmod:block/miner0_port",
+    "east": "pcmod:block/miner0_side",
+    "west": "pcmod:block/miner0_side"
+  }
+}

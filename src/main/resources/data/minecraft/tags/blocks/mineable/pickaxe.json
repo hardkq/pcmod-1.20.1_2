@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "pcmod:computer",
+    "pcmod:computer1",
+    "pcmod:computer2",
+    "pcmod:computer3",
+    "pcmod:computer4",
+    "pcmod:monitor0",
+    "pcmod:monitor1",
+    "pcmod:monitor2",
+    "pcmod:monitor3",
+    "pcmod:monitor4",
+    "pcmod:router0",
+    "pcmod:router1",
+    "pcmod:server0",
+    "pcmod:server1",
+    "pcmod:miner0",
+    "pcmod:miner1",
+    "pcmod:cable",
+    "pcmod:video_cable",
+    "pcmod:fiber0",
+    "pcmod:chamber_wall",
+    "pcmod:chamber_glass",
+    "pcmod:chiller"
+  ]
+}

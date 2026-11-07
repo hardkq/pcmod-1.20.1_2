@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "pin=false,support=down": {
+      "model": "pcmod:cable_down"
+    },
+    "pin=true,support=down": {
+      "model": "pcmod:empty"
+    },
+    "pin=false,support=up": {
+      "model": "pcmod:cable_up"
+    },
+    "pin=true,support=up": {
+      "model": "pcmod:empty"
+    },
+    "pin=false,support=north": {
+      "model": "pcmod:cable_north"
+    },
+    "pin=true,support=north": {
+      "model": "pcmod:empty"
+    },
+    "pin=false,support=south": {
+      "model": "pcmod:cable_south"
+    },
+    "pin=true,support=south": {
+      "model": "pcmod:empty"
+    },
+    "pin=false,support=west": {
+      "model": "pcmod:cable_west"
+    },
+    "pin=true,support=west": {
+      "model": "pcmod:empty"
+    },
+    "pin=false,support=east": {
+      "model": "pcmod:cable_east"
+    },
+    "pin=true,support=east": {
+      "model": "pcmod:empty"
+    }
+  }
+}

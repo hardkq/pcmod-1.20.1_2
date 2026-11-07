@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iri",
+    "cKc",
+    "iii"
+  ],
+  "key": {
+    "K": {
+      "item": "pcmod:cable"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pcmod:miner0"
+  }
+}

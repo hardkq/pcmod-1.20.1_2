@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rgr",
+    "gcg",
+    "rgr"
+  ],
+  "key": {
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pcmod:cpu_dual"
+  }
+}

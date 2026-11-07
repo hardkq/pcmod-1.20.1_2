@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "glg",
+    "lTl",
+    "gig"
+  ],
+  "key": {
+    "T": {
+      "item": "pcmod:cooler_tower"
+    },
+    "g": {
+      "item": "minecraft:glass_pane"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "l": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "pcmod:cooler_liquid"
+  }
+}

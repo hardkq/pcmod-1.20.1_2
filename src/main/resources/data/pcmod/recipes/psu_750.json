@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dgd",
+    "gPg",
+    "dgd"
+  ],
+  "key": {
+    "P": {
+      "item": "pcmod:psu_500"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "pcmod:psu_750"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pcmod:computer3"
+    }
+  ],
+  "result": {
+    "item": "pcmod:computer"
+  }
+}

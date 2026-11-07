@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pcmod:bill_50"
+    },
+    {
+      "item": "pcmod:bill_50"
+    }
+  ],
+  "result": {
+    "item": "pcmod:bill_100"
+  }
+}

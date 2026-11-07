@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ici",
+    "cKc",
+    "ici"
+  ],
+  "key": {
+    "K": {
+      "item": "pcmod:cable"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "pcmod:fiber_spool"
+  }
+}

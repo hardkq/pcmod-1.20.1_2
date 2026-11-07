@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bib",
+    "iSi",
+    "bib"
+  ],
+  "key": {
+    "S": {
+      "item": "pcmod:cooler_stock"
+    },
+    "b": {
+      "item": "minecraft:iron_bars"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "pcmod:cooler_tower"
+  }
+}

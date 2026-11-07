@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "gcg"
+  ],
+  "key": {
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "pcmod:video_cable",
+    "count": 4
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rdr",
+    "cqc"
+  ],
+  "key": {
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "q": {
+      "item": "minecraft:quartz"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pcmod:ram_d5_8"
+  }
+}

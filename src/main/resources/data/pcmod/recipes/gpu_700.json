@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gdg",
+    "dGd",
+    "ccc"
+  ],
+  "key": {
+    "G": {
+      "item": "pcmod:gpu_2"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "pcmod:gpu_700"
+  }
+}

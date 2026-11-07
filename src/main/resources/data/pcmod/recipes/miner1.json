@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gdg",
+    "MKM",
+    "ccc"
+  ],
+  "key": {
+    "K": {
+      "item": "pcmod:cable"
+    },
+    "M": {
+      "item": "pcmod:miner0"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "pcmod:miner1"
+  }
+}

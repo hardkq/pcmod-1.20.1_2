@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dgd",
+    "cHc",
+    "dgd"
+  ],
+  "key": {
+    "H": {
+      "item": "pcmod:hdd_2000"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "pcmod:hdd_4000"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " r ",
+    "geg",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "e": {
+      "item": "minecraft:ender_pearl"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pcmod:wifi_module"
+  }
+}

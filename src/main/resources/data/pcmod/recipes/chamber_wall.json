@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iwi",
+    "wcw",
+    "iwi"
+  ],
+  "key": {
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "w": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "pcmod:chamber_wall",
+    "count": 4
+  }
+}

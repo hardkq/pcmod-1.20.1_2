@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "pcmod:computer4"
+    },
+    "facing=west": {
+      "model": "pcmod:computer4",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "pcmod:computer4",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "pcmod:computer4",
+      "y": 270
+    }
+  }
+}

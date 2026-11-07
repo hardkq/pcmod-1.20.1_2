@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pcmod:ram_d5_8"
+    },
+    {
+      "item": "pcmod:ram_d5_8"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "pcmod:ram_d5_16"
+  }
+}

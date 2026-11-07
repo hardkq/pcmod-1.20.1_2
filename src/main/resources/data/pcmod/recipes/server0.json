@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iri",
+    "cMc",
+    "ihi"
+  ],
+  "key": {
+    "M": {
+      "item": "pcmod:mb_basic"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "h": {
+      "item": "pcmod:hdd"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pcmod:server0"
+  }
+}

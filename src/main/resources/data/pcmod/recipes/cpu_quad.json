@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gdg",
+    "gCg",
+    "gdg"
+  ],
+  "key": {
+    "C": {
+      "item": "pcmod:cpu_dual"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "pcmod:cpu_quad"
+  }
+}

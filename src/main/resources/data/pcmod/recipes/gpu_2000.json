@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bdb",
+    "dGd",
+    "ccc"
+  ],
+  "key": {
+    "G": {
+      "item": "pcmod:gpu_1200"
+    },
+    "b": {
+      "item": "minecraft:diamond_block"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "pcmod:gpu_2000"
+  }
+}

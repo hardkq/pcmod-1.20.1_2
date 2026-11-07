@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gdg",
+    "cSc",
+    "isi"
+  ],
+  "key": {
+    "S": {
+      "item": "pcmod:server0"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "s": {
+      "item": "pcmod:ssd"
+    }
+  },
+  "result": {
+    "item": "pcmod:server1"
+  }
+}

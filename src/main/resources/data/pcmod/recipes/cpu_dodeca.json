@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bdb",
+    "dDd",
+    "bdb"
+  ],
+  "key": {
+    "D": {
+      "item": "pcmod:cpu_deca"
+    },
+    "b": {
+      "item": "minecraft:diamond_block"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "pcmod:cpu_dodeca"
+  }
+}

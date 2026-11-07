@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iri",
+    "cwc",
+    "iii"
+  ],
+  "key": {
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "w": {
+      "item": "pcmod:wifi_module"
+    }
+  },
+  "result": {
+    "item": "pcmod:router0"
+  }
+}

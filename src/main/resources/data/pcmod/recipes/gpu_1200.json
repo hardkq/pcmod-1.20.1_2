@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ded",
+    "eGe",
+    "ccc"
+  ],
+  "key": {
+    "G": {
+      "item": "pcmod:gpu_3"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "e": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "pcmod:gpu_1200"
+  }
+}

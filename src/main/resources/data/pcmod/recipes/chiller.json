@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bib",
+    "lTl",
+    "crc"
+  ],
+  "key": {
+    "T": {
+      "item": "pcmod:cooler_tower"
+    },
+    "b": {
+      "item": "minecraft:iron_bars"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "l": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pcmod:chiller"
+  }
+}

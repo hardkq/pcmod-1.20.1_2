@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gdg",
+    "wRw",
+    "ccc"
+  ],
+  "key": {
+    "R": {
+      "item": "pcmod:router0"
+    },
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "w": {
+      "item": "pcmod:wifi_module"
+    }
+  },
+  "result": {
+    "item": "pcmod:router1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ded",
+    "eOe",
+    "ded"
+  ],
+  "key": {
+    "O": {
+      "item": "pcmod:cpu_octa"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "e": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "pcmod:cpu_deca"
+  }
+}

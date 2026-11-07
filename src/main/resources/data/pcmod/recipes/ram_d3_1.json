@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rrr",
+    "cnc"
+  ],
+  "key": {
+    "c": {
+      "item": "pcmod:circuit"
+    },
+    "n": {
+      "item": "minecraft:gold_nugget"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pcmod:ram_d3_1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pcmod:bill_1000"
+    }
+  ],
+  "result": {
+    "item": "pcmod:bill_500",
+    "count": 2
+  }
+}

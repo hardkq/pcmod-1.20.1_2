@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pcmod:chamber_wall"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "result": {
+    "item": "pcmod:chamber_glass",
+    "count": 2
+  }
+}
