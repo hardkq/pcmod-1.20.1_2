@@ -1,0 +1,40 @@
+name: Build PC Mod 1.20.1
+on:
+  push:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - uses: gradle/actions/setup-gradle@v3
+        with:
+          gradle-version: 8.1.1
+      - name: Find project dir and check sources
+        run: |
+          DIR=$(dirname "$(find . -name build.gradle -not -path './.git/*' | head -1)")
+          echo "PROJECT_DIR=$DIR" >> $GITHUB_ENV
+          echo "Project dir: $DIR"
+          for c in CaseShape PartSpec ChatStore NetLink DoomGame MonitorType MonitorShape Sprites VirusGenerator; do
+            test -f "$DIR/src/main/java/ru/pcmod/common/$c.java" || { echo "::error::Missing $c.java (not committed?)"; exit 1; }
+          done
+      - name: Build
+        working-directory: ${{ env.PROJECT_DIR }}
+        run: set -o pipefail; gradle build --no-daemon --stacktrace 2>&1 | tee build.log
+      - name: Upload jar
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pcmod-jar
+          path: ${{ env.PROJECT_DIR }}/build/libs/*.jar
+          if-no-files-found: warn
+      - name: Upload log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-log
+          path: ${{ env.PROJECT_DIR }}/build.log
